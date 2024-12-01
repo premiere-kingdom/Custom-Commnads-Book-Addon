@@ -4,6 +4,8 @@
 例えば、tpコマンドを実行したり、giveコマンドを実行したり、別のアドオンと組み合わせてfunctionコマンドを本から実行できたり・・・使用用途は様々あります。
 
 デフォルトではユーザーに対するゲームモード、エフェクト付与・削除（暗視・透明化）が設定できる項目が搭載されています。
+
+![image2](https://github.com/user-attachments/assets/9f867815-a75a-4edc-b8a2-7011e07d146a)
 ## 対応バージョン
 Minecraft Bedrock Edition v1.21.40以降
 
