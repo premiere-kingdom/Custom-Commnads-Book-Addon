@@ -9,4 +9,4 @@ Minecraft Bedrock Edition v1.21.40以降
 
 ※Minecraft Bedrock Edition（統合版）でのみ使用できます。Java版では使用できません。
 ## 使い方
-[Releases](https://github.com/premiere-kingdom/Custom-Commnads-Book-Addon/releases/tag/v1.0.1)から最新バージョンの.mcaddonファイルをダウンロードします。
+[Releases](https://github.com/premiere-kingdom/Custom-Commnads-Book-Addon/releases)から最新バージョンの.mcaddonファイルをダウンロードします。
