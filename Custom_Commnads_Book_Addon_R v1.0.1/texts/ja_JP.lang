@@ -1,0 +1,26 @@
+addon_button.name=Custom commands Book Addonの使い方
+addon_page_title.name=Custom commands Book Addonの使い方
+
+
+addonname.info.header=アドオン情報
+
+addonname.info.paragraph1=自由にカスタマイズ可能なコマンド本を追加するアドオンです。
+addonname.info.paragraph2=・制作: Nekonemina | 提供: Premiere KINGDOM
+addonname.info.paragraph3=・リリースバージョン: v1.0.1
+addonname.info.paragraph4== = = = = = = = = = = = = =
+addonname.info.paragraph5=【 §a許可事項§r 】
+addonname.info.paragraph6=・サーバー内での利用 | 私的利用目的での改造 | 当アドオンまたは改造品が映っている画像や映像をクレジット表記なくインターネット上への公開
+addonname.info.paragraph7== = = = = = = = = = = = = =
+addonname.info.paragraph8=【 §c禁止事項§r 】
+addonname.info.paragraph9=・自作発言 | 二次配布 | 商用利用 (※広告収益の取得を含む) | 改造したアドオンの無断配布
+addonname.info.paragraph10== = = = = = = = = = = = = =
+addonname.info.paragraph11=デフォルトでユーザーゲームモード変更機能、ユーザーエフェクト付与機能が搭載されており、カスタムコマンド本から設定することが可能です。
+addonname.info.paragraph12=追加したカスタムコマンドはデフォルトで§c非公開§r設定になっており、§e公開§rに設定しない限り他のユーザーにカスタムコマンドが公開されることはありません。
+addonname.info.paragraph13=その他不明な点や改善点などございましたら、お気軽に§ePremiere KINGDOM§9公式Discordサーバー§rに参加してサポートをお求めください。
+
+
+addonname.how_to_use.header=Custom commands Book Addonの使い方
+
+addonname.how_to_use.paragraph1=当アドオンを使用するには、使用するユーザーに§eAdmin§rタグを付与する必要があります。
+addonname.how_to_use.paragraph2=クリエイティブインベントリのアイテムタブに§eCustom Command Book§rという専用アイテムが追加されています。
+addonname.how_to_use.paragraph3=§eAdmin§rタグが付与されている状態で専用アイテムを右クリックまたは長押しすることでメニューを開くことができます。
