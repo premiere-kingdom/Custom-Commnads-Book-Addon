@@ -1,0 +1,26 @@
+addon_button.name=How to use the Custom commands Book Addon
+addon_page_title.name=How to use the Custom commands Book Addon
+
+
+addonname.info.header=Addon Information
+
+addonname.info.paragraph1=Addon to add a freely customizable command book.
+addonname.info.paragraph2=Developer: Nekonemina | provider: Premiere KINGDOM
+addonname.info.paragraph3=Release Version: v1.0.1
+addonname.info.paragraph4== = = = = = = = = = = = = =
+addonname.info.paragraph5=[ §aPermitted§r ]
+addonname.info.paragraph6=・Use in server | Modification for private use | Publication on the Internet of images or videos showing our add-ons or modified products without credit notation.
+addonname.info.paragraph7== = = = = = = = = = = = = =
+addonname.info.paragraph8=[ §cProhibited§r ]
+addonname.info.paragraph9=・Self made statement | Redistribution | Commercial use (including obtaining advertising revenue) | Distribution of modified works
+addonname.info.paragraph10== = = = = = = = = = = = = =
+addonname.info.paragraph11=The user game mode change function and the user effect grant function are included by default, and can be set from the custom command book.
+addonname.info.paragraph12=The custom commands you add are set to private by default, and unless you set them to public, the custom commands will not be exposed to other users.
+addonname.info.paragraph13=If you have any other questions or suggestions for improvement, please feel free to join the §ePremiere KINGDOM§9 official Discord server§r for support.
+
+
+addonname.how_to_use.header=How to use the Custom commands Book Addon
+
+addonname.how_to_use.paragraph1=To use this add-on, the user must be given the §eAdmin§r tag.
+addonname.how_to_use.paragraph2=A dedicated item named §eCustom Command Book§r has been added to the Items tab of the Creative Inventory.
+addonname.how_to_use.paragraph3=You can open the menu by right-clicking or long-pressing the dedicated item with the §eAdmin§r tag attached.
