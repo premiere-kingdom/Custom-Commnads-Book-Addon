@@ -1,0 +1,134 @@
+{
+    "namespace": "addonname_section",
+    "addonname_button@settings_common.section_toggle_base": {
+		"$toggle_view_binding_name": "addonname_button_toggle",
+		"$glyph_color_texture": "textures/ui/image1",		
+		"$glyph_texture": "textures/ui/image1",
+        "$glyph_size": [16, 16],
+		"$button_text": "addon_button.name",
+        "$toggle_property_bag": {
+            "#panel_title": "addon_page_title.name"
+        }
+    },
+    "addonname_section": {
+        "type": "stack_panel",
+        "size": [
+            "100%",
+            "100%c"
+        ],
+        "anchor_from": "top_left",
+        "anchor_to": "top_left",
+        "bindings": [
+            {
+                "binding_type": "view",
+                "source_control_name": "addonname_button_toggle",
+                "source_property_name": "#toggle_state",
+                "target_property_name": "#visible"
+            }
+        ],
+        "controls": [
+            {
+				"addonname_header@how_to_play_common.image": {
+					"texture": "textures/ui/image2",
+					"size": [ "100%" , "150px" ]
+				}
+			},
+			{
+				"spacer_0": {
+					"type": "panel",
+					"size": [ "100%", "10px" ]
+				}
+			},
+			{
+				"addonname_info@how_to_play_common.header": {
+					"$text": "addonname.info.header"
+				}
+			},
+			{
+				"addonname_info_p1@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph1"
+				}
+			},
+			{
+				"addonname_info_p2@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph2"
+				}
+			},
+			{
+				"addonname_info_p3@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph3"
+				}
+			},
+			{
+				"addonname_info_p4@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph4"
+				}
+			},
+			{
+				"addonname_info_p5@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph5"
+				}
+			},
+			{
+				"addonname_info_p6@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph6"
+				}
+			},
+			{
+				"addonname_info_p7@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph7"
+				}
+			},
+			{
+				"addonname_info_p8@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph8"
+				}
+			},
+			{
+				"addonname_info_p9@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph9"
+				}
+			},
+			{
+				"addonname_info_p10@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph10"
+				}
+			},
+			{
+				"addonname_info_p11@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph11"
+				}
+			},
+			{
+				"addonname_info_p12@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph12"
+				}
+			},
+			{
+				"addonname_info_p13@how_to_play_common.paragraph": {
+					"$text": "addonname.info.paragraph13"
+				}
+			},
+			{
+				"addonname_how_to_use@how_to_play_common.header": {
+					"$text": "addonname.how_to_use.header"
+				}
+			},
+			{
+				"addonname_how_to_use_p1@how_to_play_common.paragraph": {
+					"$text": "addonname.how_to_use.paragraph1"
+				}
+			},
+			{
+				"addonname_how_to_use_p2@how_to_play_common.paragraph": {
+					"$text": "addonname.how_to_use.paragraph2"
+				}
+			},
+			{
+				"addonname_how_to_use_p3@how_to_play_common.paragraph": {
+					"$text": "addonname.how_to_use.paragraph3"
+				}
+			}
+        ]
+    }
+}
