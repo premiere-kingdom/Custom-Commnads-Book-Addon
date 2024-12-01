@@ -10,6 +10,16 @@
 Minecraft Bedrock Edition v1.21.40以降
 
 ※Minecraft Bedrock Edition（統合版）でのみ使用できます。Java版では使用できません。
+## 利用規約
+> [!NOTE]
+> 【 **許可事項 / Permitted** 】
+> - サーバー内での利用 | 私的利用目的での改造 | 当アドオンまたは改造品が映っている画像や映像をクレジット表記なくインターネット上への公開
+> - Use in server | Modification for private use | Publication on the Internet of images or videos showing our add-ons or modified products without credit notation
+
+> [!CAUTION]
+> 【 **禁止事項 / Prohibited** 】
+> - 自作発言 | 二次配布 | 商用利用 (※広告収益の取得を含む) | 改造したアドオンの無断配布
+> - Self made statement | Redistribution | Commercial use (including obtaining advertising revenue) | Distribution of modified works
 ## 使い方
 1. [Releases](https://github.com/premiere-kingdom/Custom-Commnads-Book-Addon/releases) から最新バージョンの.mcaddonファイルをダウンロードします。
 2. ダウンロードしたアドオンをMinecraftにインポートします。
