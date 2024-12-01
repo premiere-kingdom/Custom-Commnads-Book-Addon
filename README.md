@@ -31,7 +31,9 @@ If we find any violation of the Terms of Service, we may suspend or terminate th
 ## 当アドオンの使い方 / How to use this add-on
 1. [Releases](https://github.com/premiere-kingdom/Custom-Commnads-Book-Addon/releases) から最新バージョンの.mcaddonファイルをダウンロードします。
 2. ダウンロードしたアドオンをMinecraftにインポートします。
-3. 当アドオンのリソースパックとビヘイビアパックが有効化された状態でワールドを開くと、クリエイティブインベントリのアイテムタブに**Custom Commnads Book**という名前の専用アイテムが追加されています。その専用アイテムを持って右クリックまたは長押しで、メニューを開くことができます。
+3. 当アドオンのリソースパックとビヘイビアパックが有効化された状態でワールドを開くと、クリエイティブインベントリのアイテムタブに**Custom Commnads Book**という名前の専用アイテムが追加されているはずです。
+4. 専用アイテムを使用したいプレイヤーに**Admin**というタグを追加します。
+5. Adminタグが付いている状態で専用アイテムを持って右クリックまたは長押しでメニューを開くことができます。
 ## バグ報告・サポート / Bug Reporting and Support
 バグ報告や不明な点などございましたら、お気軽に[**Premiere KINGDOM公式Discordサーバー**](https://discord.gg/vwj79dbcbW)に参加してサポートをお求めください。
 ## 更新ログ / Changelog
