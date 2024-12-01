@@ -25,7 +25,7 @@ Minecraft Bedrock Edition v1.21.40以降
 > 【 **禁止事項 / Prohibited** 】
 > - 自作発言 / 二次配布 / 商用利用 (※広告収益の取得を含む) / 改造したアドオンの無断配布
 > - Self made statement / Redistribution / Commercial use (including obtaining advertising revenue) / Distribution of modified works
-## 使い方
+## 当アドオンの使い方
 1. [Releases](https://github.com/premiere-kingdom/Custom-Commnads-Book-Addon/releases) から最新バージョンの.mcaddonファイルをダウンロードします。
 2. ダウンロードしたアドオンをMinecraftにインポートします。
 3. 当アドオンのリソースパックとビヘイビアパックが有効化された状態でワールドを開くと、クリエイティブインベントリのアイテムタブに**Custom Commnads Book**という名前の専用アイテムが追加されています。その専用アイテムを持って右クリックまたは長押しで、メニューを開くことができます。
