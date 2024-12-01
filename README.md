@@ -16,7 +16,7 @@
 
 Minecraft Bedrock Edition（統合版）でのみ使用できます。Java版では使用できません。
 ## 利用規約 / Terms of Service
-利用規約に違反する行為を発見した場合、当アドオンの配布を停止または終了する場合があります。予めご了承ください。
+利用規約に違反する行為を発見した場合、当アドオンの配布を停止または終了する場合があります。あらかじめご了承ください。
 
 If we find any violation of the Terms of Service, we may suspend or terminate the distribution of this add-on. Please understand this in advance.
 > [!NOTE]
