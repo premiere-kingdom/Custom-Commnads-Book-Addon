@@ -35,7 +35,7 @@ If we find any violation of the Terms of Service, we may suspend or terminate th
 ## バグ報告・サポート / Bug Reporting and Support
 バグ報告や不明な点などございましたら、お気軽に[**Premiere KINGDOM公式Discordサーバー**](https://discord.gg/vwj79dbcbW)に参加してサポートをお求めください。
 ## 更新ログ / Changelog
-2024/12/01 v1.0.1 Release
+2024/12/02 v1.0.1 Release
 - Custom Commnads Book Addon正式公開
 ## クレジット / Credit
 © 2024 Premiere KINGDOM
