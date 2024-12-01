@@ -9,6 +9,6 @@ Minecraft Bedrock Edition v1.21.40以降
 
 ※Minecraft Bedrock Edition（統合版）でのみ使用できます。Java版では使用できません。
 ## 使い方
-1. [**Releases**](https://github.com/premiere-kingdom/Custom-Commnads-Book-Addon/releases) から最新バージョンの.mcaddonファイルをダウンロードします。
+1. [Releases](https://github.com/premiere-kingdom/Custom-Commnads-Book-Addon/releases) から最新バージョンの.mcaddonファイルをダウンロードします。
 2. ダウンロードしたアドオンをMinecraftにインポートします。
 3. 当アドオンのリソースパックとビヘイビアパックそれぞれを有効にしてワールドを開くと、クリエイティブインベントリのアイテムタブに専用アイテムが追加されています。その専用アイテムを持って右クリックまたは長押しで、メニューを開くことができます。
